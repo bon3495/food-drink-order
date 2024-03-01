@@ -1,15 +1,10 @@
 import React from 'react';
 
-import Hero from '@/components/hero';
-
 import homeImg from '../../public/home.jpg';
 
 const HomePage = () => {
-  return (
-    <div className="">
-      <Hero imgData={homeImg} imgAlt="car factory" title="Home Page" />
-    </div>
-  );
+  console.log('hehe');
+  return <div className="">page</div>;
 };
 
 export default HomePage;
