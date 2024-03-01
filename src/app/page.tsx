@@ -1,6 +1,8 @@
 import React from 'react';
-import homeImg from '../../public/home.jpg';
+
 import Hero from '@/components/hero';
+
+import homeImg from '../../public/home.jpg';
 
 const HomePage = () => {
   return (
